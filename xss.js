@@ -1,4 +1,7 @@
- $.ajax({
+<script src="/lib/jquery/dist/jquery.js"></script>
+<script src="/lib/bootstrap/dist/js/bootstrap.js"></script>
+
+$.ajax({
      headers: { 
         'Accept': 'application/json',
         'Content-Type': 'application/json' 
