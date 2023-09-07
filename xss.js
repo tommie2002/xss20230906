@@ -1,4 +1,4 @@
-fetch('api/CoursesApi/1045', {
+fetch('/api/CoursesApi/1045', {
     method: 'PUT',
     body: JSON.stringify({
     courseID: 1045,
