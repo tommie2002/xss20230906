@@ -1,4 +1,3 @@
-<script>
 fetch('api/CoursesApi/1045', {
     method: 'PUT',
     body: JSON.stringify({
@@ -14,4 +13,3 @@ fetch('api/CoursesApi/1045', {
       'Content-Type': 'application/json'
     }
   });
-</script>
